@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kishore S</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h1 align="center">KISHORE SURESH </h1>
+<h3 align="center">A Passionate and an enthusiast Business Analyst and Strategic Consultatnt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishore1049&label=Profile%20views&color=0e75b6&style=flat" alt="kishore1049" /> </p>
 
-- 🔭 I’m currently working on **Barclays**
+- 🔭 I’m currently searching for oppurtunities in the UK
 
-- 🌱 I’m currently learning **MySql, Python, Power Bi**
+- 🌱 My areas of interest lies on #business_analytics #strategic_consulting
 
 - 📫 How to reach me **skishorekichu10@gmail.com**
 
