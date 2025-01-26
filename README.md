@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently searching for oppurtunities in the UK
 
-- 🌱 My areas of interest lies on #business_analytics #strategic_consulting
+- 🌱 My areas of interest lies on #Data Analyst #Data Engineering
 
 - 📫 How to reach me **skishorekichu10@gmail.com**
 
