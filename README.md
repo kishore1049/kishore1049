@@ -1,5 +1,5 @@
 <h1 align="center">KISHORE SURESH </h1>
-<h3 align="center">A Passionate and an enthusiast Business Analyst and Strategic Consultatnt</h3>
+<h3 align="center">A Passionate and an enthusiastic Analyst and Strategic Consultatnt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishore1049&label=Profile%20views&color=0e75b6&style=flat" alt="kishore1049" /> </p>
 
