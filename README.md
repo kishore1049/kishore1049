@@ -1,10 +1,10 @@
 # KISHORE SURESH
-### A Complete Data Professional with Expertise in Data Analytics
+### A Complete Data Professional with Expertise in Data Analytics & Data Engineering.
 
-[cite_start]A strategic and analytical **Data Analyst** with an MBA in Business Analytics and over 3 years of experience gathering operational data and translating complex datasets into actionable business insights[cite: 4, 5]. [cite_start]Adept at identifying data patterns and trends to enhance business decision-making, I am highly proficient in **SQL**, **Python**, and **Power BI**, with a proven ability to translate data into customer behavioural insights[cite: 5, 6].
+A strategic and analytical **Data Analyst** with an MBA in Business Analytics and over 3 years of experience gathering operational data and translating complex datasets into actionable business insights. Adept at identifying data patterns and trends to enhance business decision-making, I am highly proficient in **SQL**, **Python**, and **Power BI**, with a proven ability to translate data into customer behavioural insights.
 
 - 🔭 I’m currently searching for opportunities in **India** and the **United Kingdom**.
-- [cite_start]📫 How to reach me: **skishorekichu10@gmail.com** [cite: 2]
+- 📫 How to reach me: **skishorekichu10@gmail.com**
 
 ---
 
@@ -35,22 +35,22 @@
 
 ### Work Experience
 
-**Senior Data Analyst** | Capgemini - Barclays Partner Finance | [cite_start]Oct 2021 - Aug 2023 [cite: 15]
-- [cite_start]Enhanced business process reliability by 15% through advanced data analysis in SQL and Python, identifying and resolving root causes of transaction failures[cite: 16].
-- [cite_start]Designed and implemented automation logic for Dead Letter Queues (DLQ) to minimise operational disruption[cite: 17].
-- [cite_start]Developed real-time Power BI dashboards to track operational KPIs (MTTD, Message Failure Rate) for leadership[cite: 18].
-- [cite_start]Improved incident resolution processes by 25% by implementing structured logging and automated alerts[cite: 19].
+**Senior Data Analyst** | Capgemini - Barclays Partner Finance | Oct 2021 - Aug 2023
+- Enhanced business process reliability by 15% through advanced data analysis in SQL and Python, identifying and resolving root causes of transaction failures.
+- Designed and implemented automation logic for Dead Letter Queues (DLQ) to minimise operational disruption.
+- Developed real-time Power BI dashboards to track operational KPIs (MTTD, Message Failure Rate) for leadership.
+- Improved incident resolution processes by 25% by implementing structured logging and automated alerts.
 
-**Analyst** | Capgemini - Barclays Partner Finance | [cite_start]Oct 2020 - Aug 2021 [cite: 20]
-- [cite_start]Supported end-to-end Disaster Recovery (DR) testing to ensure zero data loss and safeguard business services[cite: 21].
-- [cite_start]Collaborated with over 5 cross-functional teams to gather operational data and troubleshoot issues during DR drills[cite: 22].
-- [cite_start]Developed and executed SQL-based test cases to validate data consistency between primary and recovery environments[cite: 23].
+**Analyst** | Capgemini - Barclays Partner Finance | Oct 2020 - Aug 2021
+- Supported end-to-end Disaster Recovery (DR) testing to ensure zero data loss and safeguard business services.
+- Collaborated with over 5 cross-functional teams to gather operational data and troubleshoot issues during DR drills.
+- Developed and executed SQL-based test cases to validate data consistency between primary and recovery environments.
 
 ---
 
-### [cite_start]Portfolio: Customer Insights Analytics Pipeline on AWS [cite: 25]
+### Portfolio: Customer Insights Analytics Pipeline on AWS
 
-[cite_start]Engineered an end-to-end customer insights pipeline using **AWS Glue** to gather, clean, and transform raw transaction data, reducing manual ETL processing time by 80%[cite: 26]. [cite_start]I translated semi-structured data into partitioned datasets using **AWS Athena** for exploratory analysis and designed an interactive **AWS QuickSight** dashboard to communicate key business metrics (e.g., customer lifetime value) to senior leaders[cite: 27, 28].
+Engineered an end-to-end customer insights pipeline using **AWS Glue** to gather, clean, and transform raw transaction data, reducing manual ETL processing time by 80%. I translated semi-structured data into partitioned datasets using **AWS Athena** for exploratory analysis and designed an interactive **AWS QuickSight** dashboard to communicate key business metrics (e.g., customer lifetime value) to senior leaders.
 
 ---
 
