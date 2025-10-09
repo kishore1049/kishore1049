@@ -1,5 +1,5 @@
 # KISHORE SURESH
-### A Complete Data Professional with Expertise in Data Analytics
+### DATA ANALYST | ETL DEVELOPER
 
 A strategic and analytical **Data Analyst** with an MBA in Business Analytics and over 3 years of experience gathering operational data and translating complex datasets into actionable business insights. Adept at identifying data patterns and trends to enhance business decision-making, I am highly proficient in **SQL**, **Python**, and **Power BI**, with a growing knowledge of Big Data technologies like **Spark** and **PySpark**.
 
