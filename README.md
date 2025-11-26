@@ -17,3 +17,112 @@ I enjoy solving complex data problems, designing semantic models, building dashb
 <p align="left"> <a href="https://linkedin.com/in/kishore-suresh-1049-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-kishore" height="30" width="40" /></a> <a href="https://github.com/kishore1049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github-kishore" height="30" width="40" /></a> </p>
 🧰 Tech Stack | Languages & Tools
 <p align="left"> <a href="https://python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> </a> <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" width="40"/> </a> <a href="https://pandas.pydata.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/> </a> <a href="https://numpy.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/> </a> <a href="https://www.microsoft.com/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/> </a> <a href="https://mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> </a> <a href="https://www.snowflake.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/> </a> <a href="https://databricks.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40"/> </a> <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="40"/> </a> <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/microsoft-fabric-icon-512x512-1tm4sxyg.png" width="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> </a> <a href="https://azure.microsoft.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/> </a> <a href="https://git-scm.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> </a> <a href="https://www.microsoft.com/excel" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msexcel/msexcel-original.svg" width="40"/> </a> </p>
+
+
+🔧 Data Engineering & Analytics Skills
+🧩 Programming & Scripting
+
+Python (Pandas, NumPy, Matplotlib, PySpark)
+
+SQL (CTEs, window functions, query optimization)
+
+⚙️ Data Engineering & ETL
+
+Microsoft Fabric (Lakehouse, Direct Lake, Pipelines, Dataflows)
+
+Power Query (M language)
+
+ADF (pipelines, triggers, linked services)
+
+REST API ingestion
+
+ETL pipeline design (batch + incremental)
+
+🗄️ Databases & Storage
+
+SQL Server • MySQL • Snowflake • Databricks
+
+Delta Lake • ADLS Gen2 • OneLake
+
+Fact/Dimension modelling, star & snowflake schema
+
+📊 Analytics & Visualization
+
+Power BI (DAX, RLS, drillthrough, KPIs)
+
+Power BI Service (deployment pipelines)
+
+Excel (Power Query, Power Pivot)
+
+☁️ Cloud Engineering
+
+Azure (ADF, ADLS, Logic Apps)
+
+AWS (S3, Athena, Glue)
+
+🔥 Big Data
+
+Apache Spark (RDDs, DataFrames)
+
+PySpark (joins, transformations, aggregations)
+
+🧱 Data Architecture
+
+Dimensional modelling
+
+Semantic model optimization
+
+Data quality checks, logging, metadata
+
+🛠️ DevOps & Workflow
+
+Git/GitHub
+
+CI/CD for BI models
+
+Jira, Confluence, Agile
+
+💼 Professional Experience
+📌 Business Development Analyst | International Business Times
+
+Oct 2024 – Jan 2025
+
+Automated product performance dashboards in Power BI.
+
+A/B testing & segmentation → improved conversions by 30%.
+
+ROI insights directly contributed to 15% growth in acquisitions.
+
+📌 Senior Data Analyst | Capgemini – Barclays Partner Finance
+
+Oct 2021 – Aug 2023
+
+Improved business process reliability by 15% using SQL/Python insights.
+
+Built operational KPI dashboards in Power BI for leadership.
+
+Reduced incident resolution time by 25% using automation.
+
+📌 Analyst | Capgemini – Barclays
+
+Oct 2020 – Aug 2021
+
+Ensured zero data loss via DR & data integrity validation.
+
+Developed SQL-based test cases for end-to-end validation.
+
+📂 Featured Project — Customer Insights Pipeline on AWS
+
+Built an end-to-end customer insights pipeline using AWS Glue, Athena, and S3, reducing manual ETL effort by 80%.
+Delivered an interactive QuickSight dashboard showcasing Customer Lifetime Value, churn risk, and behaviour trends.
+
+🎓 Education
+
+MBA in Business Analytics (2:1) — University of East London (2023–2025)
+B.E. Computer Science (First Class) — Sastra University (2016–2020)
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kishore1049&show_icons=true&theme=radical" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore1049&layout=compact&theme=radical" height="180"/> </p>
+🚀 Thanks for visiting!
+
+💬 Feel free to reach out — I love discussing data, analytics, engineering, and BI solutions.
