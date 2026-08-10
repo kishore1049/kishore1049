@@ -81,14 +81,13 @@ A production analytics platform for L&T Technology Services procurement operatio
 ## 💼 Professional Experience
 
 ### **BI Analytics Consultant** | NeeliTech LLP
-*Oct 2023 – Present*
+*JAN 2026 – Present*
 
 Delivering high-complexity analytics platforms for enterprise clients (L&T Technology Services, others).
 
 **Key Deliverables:**
 - Vendor Portal PO Dashboard (Dataverse + SAP + Fabric medallion architecture)
 - COO Intelligence Platform (50+ portfolio company KPIs, CapEx/OpEx tracking, attrition analytics)
-- Azure Virtual Desktop (AVD) restricted environment optimization & workarounds
 
 ---
 
