@@ -1,128 +1,148 @@
-👋 Hi, I'm Kishore Suresh
-Data Analyst | Power BI Developer | Aspiring Data Engineer
+# 👋 Kishore Suresh
 
-A strategic and analytical Data Analyst / Power BI Developer with an MBA in Business Analytics and 3+ years of experience transforming raw data into actionable business insights. I specialize in Power BI, SQL, Python, Data Modelling, ETL Pipelines, and Microsoft Fabric, with hands-on experience building scalable data solutions across marketing, finance, and operational domains.
+**BI Analytics Consultant** | Power BI Architect | Fabric Medallion Engineer | Semantic Model Designer  
+📍 Chennai, India | 🇬🇧 Open to UK opportunities (Skilled Worker Visa eligible)
 
-I enjoy solving complex data problems, designing semantic models, building dashboards, and optimizing data pipelines end-to-end.
+---
 
-🔭 Actively looking for opportunities in:
+## 🎯 About Me
 
-🇮🇳 India • 🇬🇧 United Kingdom
+BI Analytics Consultant with **4 years** building production-grade analytics platforms. I specialize in designing scalable data architectures using **Microsoft Fabric medallion patterns**, crafting semantic models that drive business decisions, and now exploring **agentic report generation** to automate insights delivery.
 
-📫 Reach me at:
+I solve problems at the intersection of data engineering, analytics, and AI—turning messy enterprise data (SAP, Dataverse, cloud storage) into trusted, actionable dashboards.
 
-📧 skishorekichu10@gmail.com
+---
 
-🌐 Connect with Me
-<p align="left"> <a href="https://linkedin.com/in/kishore-suresh-1049-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-kishore" height="30" width="40" /></a> <a href="https://github.com/kishore1049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github-kishore" height="30" width="40" /></a> </p>
-🧰 Tech Stack | Languages & Tools
-<p align="left"> <a href="https://python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> </a> <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" width="40"/> </a> <a href="https://pandas.pydata.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/> </a> <a href="https://numpy.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/> </a> <a href="https://www.microsoft.com/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/> </a> <a href="https://mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> </a> <a href="https://www.snowflake.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/> </a> <a href="https://databricks.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40"/> </a> <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="40"/> </a> <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/microsoft-fabric-icon-512x512-1tm4sxyg.png" width="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> </a> <a href="https://azure.microsoft.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/> </a> <a href="https://git-scm.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> </a> <a href="https://www.microsoft.com/excel" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msexcel/msexcel-original.svg" width="40"/> </a> </p>
+## 🚀 Featured Project: Vendor Portal PO Dashboard (LTTS)
 
+**Role:** BI Analytics Consultant | **Timeline:** Ongoing  
 
-🔧 Data Engineering & Analytics Skills
-🧩 Programming & Scripting
+A production analytics platform for L&T Technology Services procurement operations.
 
-Python (Pandas, NumPy, Matplotlib, PySpark)
+**Architecture & Tech:**
+- **Data Layer:** SAP Z-tables → Azure Synapse (incremental pipelines, duplicate request ID resolution)
+- **Lakehouse:** Fabric Medallion (Bronze raw tables → Silver normalized → Gold business metrics)
+- **Semantic Model:** TMDL-based with RLS row-level security (tested across vendor accounts: Neelitech, Tanisha Systems, TATA Communications)
+- **Analytics:** Power BI with 6-KPI DAX measure library (PO Received, Open PO, To Be Delivered, Invoiced, Payment Received, Payment Awaited)
+- **Automation:** Power Automate cloud flows (Dataverse sync, Power BI refresh orchestration)
 
-SQL (CTEs, window functions, query optimization)
+**Key Challenges Solved:**
+- Restricted Azure AVD environment → CDS Legacy connector workaround for Dataverse connectivity
+- SAP duplicate REQUEST_ID errors → Pipeline deduplication logic + data quality checks
+- Multi-vendor RLS enforcement → Row-level security model with stakeholder validation
 
-⚙️ Data Engineering & ETL
+**Stakeholders:** Suman, Jignesh, Niveditha, Sreeram (LTTS leadership)
 
-Microsoft Fabric (Lakehouse, Direct Lake, Pipelines, Dataflows)
+---
 
-Power Query (M language)
+## 💻 Core Competencies
 
-ADF (pipelines, triggers, linked services)
+### ⚙️ **Fabric & Medallion Architecture**
+- Lakehouse design (Bronze → Silver → Gold medallion pattern)
+- Direct Lake semantic models for sub-second query performance
+- TMDL (Tabular Model Definition Language) for version control
+- Data Factory pipelines (batch & incremental ingestion)
+- Delta Lake & OneLake optimization
 
-REST API ingestion
+### 📊 **Power BI & Semantic Modeling**
+- DAX (complex measures, context transition, CALCULATE, ALL, ALLSELECTED)
+- Semantic model optimization & performance tuning
+- Row-Level Security (RLS) design & testing
+- Power BI Service (deployment pipelines, refresh schedules)
+- Drillthrough, bookmarks, dynamic KPI design
 
-ETL pipeline design (batch + incremental)
+### 🗄️ **SQL & Data Engineering**
+- SQL Server, MySQL, Azure Synapse, Snowflake
+- CTEs, window functions, query optimization, execution plans
+- Fact/dimension modelling (star schema, slowly changing dimensions)
+- ETL pipeline design (batch & incremental)
+- Data quality frameworks, logging, metadata
 
-🗄️ Databases & Storage
+### 🤖 **Agentic Analytics (Emerging)**
+- AI-driven report generation & narrative automation
+- Claude API integration for dynamic KPI insights
+- Exploring autonomous analysis workflows
 
-SQL Server • MySQL • Snowflake • Databricks
+### ☁️ **Cloud Platforms**
+- **Azure:** ADF, ADLS Gen2, Azure Synapse, Logic Apps, Dataverse
+- **AWS:** S3, Athena, Glue, QuickSight
+- **Databricks:** Delta Lake, PySpark
 
-Delta Lake • ADLS Gen2 • OneLake
+---
 
-Fact/Dimension modelling, star & snowflake schema
+## 📚 Certifications
 
-📊 Analytics & Visualization
+- **DP-600: Fabric Analytics Engineer** (Microsoft Certified Associate)
+  - Advanced Fabric Lakehouse, Direct Lake, semantic model optimization
+  - Two exam attempts (645 both times); passed core competencies
 
-Power BI (DAX, RLS, drillthrough, KPIs)
+---
 
-Power BI Service (deployment pipelines)
+## 💼 Professional Experience
 
-Excel (Power Query, Power Pivot)
+### **BI Analytics Consultant** | NeeliTech LLP
+*Oct 2023 – Present*
 
-☁️ Cloud Engineering
+Delivering high-complexity analytics platforms for enterprise clients (L&T Technology Services, others).
 
-Azure (ADF, ADLS, Logic Apps)
+**Key Deliverables:**
+- Vendor Portal PO Dashboard (Dataverse + SAP + Fabric medallion architecture)
+- COO Intelligence Platform (50+ portfolio company KPIs, CapEx/OpEx tracking, attrition analytics)
+- Azure Virtual Desktop (AVD) restricted environment optimization & workarounds
 
-AWS (S3, Athena, Glue)
+---
 
-🔥 Big Data
+### **Senior Data Analyst** | Capgemini – Barclays Partner Finance
+*Oct 2021 – Aug 2023*
 
-Apache Spark (RDDs, DataFrames)
+Led analytics across finance operations and partner networks.
 
-PySpark (joins, transformations, aggregations)
+- Built operational KPI dashboards (Power BI) for C-suite leadership
+- Improved business process reliability by **15%** using SQL/Python insights
+- Reduced incident resolution time by **25%** through automation
+- Designed end-to-end data validation frameworks
 
-🧱 Data Architecture
+---
 
-Dimensional modelling
+### **Analyst** | Capgemini – Barclays
+*Oct 2020 – Aug 2021*
 
-Semantic model optimization
+Ensured data integrity and zero data loss across disaster recovery pipelines.
 
-Data quality checks, logging, metadata
+- Developed SQL-based test cases for end-to-end validation
+- Built data quality monitoring & alerting systems
 
-🛠️ DevOps & Workflow
+---
 
-Git/GitHub
+## 🛠️ Technical Stack
 
-CI/CD for BI models
+| Category | Tools |
+|----------|-------|
+| **Languages** | SQL, Python (Pandas, NumPy, PySpark), DAX, M (Power Query) |
+| **Analytics** | Power BI, Power Pivot, Excel |
+| **Data Engineering** | Azure Synapse, Fabric Lakehouse, Data Factory, Dataflows |
+| **Databases** | SQL Server, MySQL, Snowflake, Databricks, Delta Lake |
+| **Cloud** | Azure (ADF, ADLS, Dataverse), AWS (S3, Athena, Glue) |
+| **Big Data** | Apache Spark, PySpark |
+| **DevOps** | Git/GitHub, CI/CD for BI, Jira, Agile |
 
-Jira, Confluence, Agile
+---
 
-💼 Professional Experience
-📌 Business Development Analyst | International Business Times
+## 🎓 Education
 
-Oct 2024 – Jan 2025
+**MBA in Business Analytics** (Distinction) | University of East London | 2023–2025  
+**B.E. Computer Science** (First Class) | Sastra University | 2016–2020
 
-Automated product performance dashboards in Power BI.
+---
 
-A/B testing & segmentation → improved conversions by 30%.
+## 📫 Connect
 
-ROI insights directly contributed to 15% growth in acquisitions.
+📧 **Email:** skishorekichu10@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/kishore-suresh-1049-analyst](https://linkedin.com/in/kishore-suresh-1049-analyst)  
+🐙 **GitHub:** [github.com/kishore1049](https://github.com/kishore1049)
 
-📌 Senior Data Analyst | Capgemini – Barclays Partner Finance
+---
 
-Oct 2021 – Aug 2023
+## 🚀 Let's Talk
 
-Improved business process reliability by 15% using SQL/Python insights.
-
-Built operational KPI dashboards in Power BI for leadership.
-
-Reduced incident resolution time by 25% using automation.
-
-📌 Analyst | Capgemini – Barclays
-
-Oct 2020 – Aug 2021
-
-Ensured zero data loss via DR & data integrity validation.
-
-Developed SQL-based test cases for end-to-end validation.
-
-📂 Featured Project — Customer Insights Pipeline on AWS
-
-Built an end-to-end customer insights pipeline using AWS Glue, Athena, and S3, reducing manual ETL effort by 80%.
-Delivered an interactive QuickSight dashboard showcasing Customer Lifetime Value, churn risk, and behaviour trends.
-
-🎓 Education
-
-MBA in Business Analytics (2:1) — University of East London (2023–2025)
-B.E. Computer Science (First Class) — Sastra University (2016–2020)
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kishore1049&show_icons=true&theme=radical" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore1049&layout=compact&theme=radical" height="180"/> </p>
-🚀 Thanks for visiting!
-
-💬 Feel free to reach out — I love discussing data, analytics, engineering, and BI solutions.
+Interested in **Fabric medallion architecture**, **semantic model optimization**, **SAP integration**, or **agentic analytics**? Reach out—I enjoy solving complex data problems and sharing what I learn.
